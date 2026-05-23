@@ -1,6 +1,6 @@
-# Library Complete
+# Library 
 
-Library Complete — учебный REST API веб-сервис на основе Java + Spring Boot.
+Library  — учебный REST API веб-сервис на основе Java + Spring Boot.
 
 Проект выполнен в рамках лабораторной работы.
 
