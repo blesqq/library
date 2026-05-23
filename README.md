@@ -83,7 +83,7 @@ Windows PowerShell:
 Данные администратора по умолчанию:
 
 * login: `admin`
-* password: `admin123`
+* password: `admin`
 
 ## Проверка health endpoint
 
